@@ -1,6 +1,6 @@
 ## Celina Brzywczy
 
-Analityczka danych, absolwentka Informatyki i Ekonometrii na WNE UW. Zajmuję się ekonometrią i modelowaniem statystycznym.
+Analityczka danych, absolwentka Informatyki i Ekonometrii na WNE UW. 
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/r/r-original.svg" height="18" alt=""> R &nbsp;&nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/python/python-original.svg" height="18" alt=""> Python &nbsp;&nbsp; <img src="sas.svg" height="18" alt=""> SAS &nbsp;&nbsp; <img src="sql.svg" height="18" alt=""> SQL &nbsp;&nbsp; <img src="excel.svg" height="18" alt=""> Excel &nbsp;&nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/visualbasic/visualbasic-original.svg" height="18" alt=""> VBA
 
